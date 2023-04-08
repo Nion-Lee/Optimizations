@@ -1,0 +1,2 @@
+# Optimizations
+在每個scale之下，不同的iteration方法各自擁有不同的效能
